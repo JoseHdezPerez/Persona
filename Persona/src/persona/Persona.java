@@ -11,6 +11,7 @@ package persona;
  */
 public class Persona {
     String numeroDeTelefono;
+	//hola hola caracola
     
     public Persona (String numeroDeTelefono) {
         super();
