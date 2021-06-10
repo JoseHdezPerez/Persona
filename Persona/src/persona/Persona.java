@@ -14,7 +14,7 @@ public class Persona {
 	//hola hola caracola
 	//Hasta luego desde github, hola git pull origin main
     
-	//a Persona1
+	//a Persona1 a 
     public Persona (String numeroDeTelefono) {
         super();
         this.numeroDeTelefono = numeroDeTelefono;
