@@ -12,7 +12,7 @@ package persona;
 public class Persona {
     String numeroDeTelefono;
 	//hola hola caracola
-	//Hasta luego 
+	//Hasta luego desde github, hola git pull origin main
     
     public Persona (String numeroDeTelefono) {
         super();
